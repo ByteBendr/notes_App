@@ -231,6 +231,17 @@ form button{
   background: #6A93F8;
 }
 
+.banner {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 @media (max-width: 660px){
   .wrapper{
     margin: 15px;
