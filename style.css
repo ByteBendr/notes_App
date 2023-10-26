@@ -242,6 +242,30 @@ form button{
     width: 100%;
 }
 
+a:link {
+  color: #ADD8E6;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9932CC;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #87CEFA;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #7B68EE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 @media (max-width: 660px){
   .wrapper{
     margin: 15px;
